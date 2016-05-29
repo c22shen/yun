@@ -4,7 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "morgan":"latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest",
+    "express-session": "latest",
+    "ejs": "~1.0.0"
   },
   "devDependencies": {},
   "scripts": {

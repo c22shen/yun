@@ -10,7 +10,8 @@
     "body-parser": "latest",
     "method-override": "latest",
     "express-session": "latest",
-    "ejs": "~1.0.0"
+    "ejs": "~1.0.0",
+    "mongoose": "latest"
   },
   "devDependencies": {},
   "scripts": {
